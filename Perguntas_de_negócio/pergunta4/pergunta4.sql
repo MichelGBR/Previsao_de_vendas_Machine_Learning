@@ -1,6 +1,3 @@
-# 1 - Qual o número total de vendas por localidade?
-
-
 # 4 - Quantos mercados estão abaixo da média em marketing por localidade? 
 
 SELECT localidade, COUNT (investimento_em_marketing) AS qtd_abaixo_da_media
