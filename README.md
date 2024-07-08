@@ -102,7 +102,7 @@ O Power BI se consolidou como uma ferramenta indispensável neste projeto, trans
 
 Achei necessário fazer esse processo pois permitia melhor compreensão daquele que está visualizando o código. Desse modo, usei a função "replace" para substituir as palavras nas linhas e a "rename" foi responsável por traduzir palavras das colunas.
 
-<img align="center"  height="650" width="3000" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/e41eb121-5abc-42ae-8471-75228ad843b2">
+<img align="center"  height="450" width="800" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/e41eb121-5abc-42ae-8471-75228ad843b2">
 
 ### Dados traduzidos :
 
