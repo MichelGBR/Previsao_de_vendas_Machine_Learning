@@ -2,12 +2,12 @@
 <br>
 <br> 
 
-<div align="left"> 
+<div align="center"> 
 
-<img align="left" height="80" width="80" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/af05ac55-bf57-4bd0-8435-55c9a02dcc95">
+<img align="center" height="90" width="80" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/af05ac55-bf57-4bd0-8435-55c9a02dcc95">
 
-<img align="left"  height="80" width="80" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/bf54642d-44a1-4f8a-946c-1bc939033b01">
+<img align="center"  height="80" width="80" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/bf54642d-44a1-4f8a-946c-1bc939033b01">
 
-<img align="left"  height="100" width="100" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/b6bcbd47-226d-4b3a-ad09-dc60ed316cdf">
+<img align="center"  height="120" width="120" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/b6bcbd47-226d-4b3a-ad09-dc60ed316cdf">
 
-<img align="left"  height="80" width="80" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/0de88fa5-9696-4012-bc9c-22a7e60bd0bd">
+<img align="center"  height="80" width="80" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/0de88fa5-9696-4012-bc9c-22a7e60bd0bd">
