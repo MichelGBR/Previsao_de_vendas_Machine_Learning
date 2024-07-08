@@ -115,6 +115,68 @@ Achei necessário fazer esse processo pois permitia melhor compreensão daquele 
 ### 3 - Ajustando as datas :
 
 As datas estavam definidas como "object", é melhor transformar ela para "date_time" e assim ter melhor entendimento.
+
 <img align="center"  height="350" width="700" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/b57b6896-87c9-47a2-9cc0-05f2e1e40b64">
+
+### 4 - Box-plot
+
+
+Verificando a quantidade de outliers para melhorar a taxa de acertividade de nosso Machine Learning.
+
+<img align="center"  height="800" width="2700" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/5bbb7e90-32f0-4c50-938d-237eb8f25f92">
+
+<br>
+Processo de limpeza dos box-plots "vendas" e "lucros", após verificar os valores abaixo da linha de outliers:
+
+<img align="center"  height="1050" width="900" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/92bb3629-9413-49b0-86f2-1c6feafbaac8">
+
+
+### Box-plot de "investimento em marketing" limpo:
+
+<img align="center"  height="750" width="700" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/87fdb650-3480-4c88-b7ef-2376b8085a18">
+
+### 5 - Correlação das colunas:
+
+Analisando o quanto as variáveis tem significado entre elas, no qual vemos que o investimento em mkt e vendas andam bem alinhadas (perto do 1), um fator positico para nosso futuro modelo ter maior acertividade.
+
+<img align="center"  height="550" width="900" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/2bd31e0c-7c58-478d-80e5-29b0450ddf3f">
+
+### Correlação por meio de um mapa de calor:
+
+<img align="center"  height="700" width="600" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/bd218035-4239-4621-834e-b6a7d1b89701">
+
+# 6 - Início envolvendo Machine Learning:
+
+Etapa inicial para definir quem será o meu x (investimento em mkt) e y (vendas), temos que fazer alguns ajustes com o Numpy (np) e reshape, pois o modelo espera recebe-los dessa forma. 
+
+<img align="center"  height="350" width="800" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/0cb64434-215d-4f2f-839f-f5b302a2e514">
+
+### Gráfico de dispersão:
+
+Importante ver o quanto essas duas caminham e se sua direção é positiva ou negativa.
+
+<img align="center"  height="850" width="800" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/512542a0-4c2b-4ca7-969a-7a931f4d53f4">
+
+### Utilizando a regressão linear para nos mostrar o desfecho positivo ou negativo após fazermos um treinamento:
+
+Foi observado que é positivo, então temos um modelo com uma taxa de acertividade boa e que a tendência é se manter positiva sempre aumentando o seu valor pela variável x, quanto maior ela, maior o y.
+
+<img align="center"  height="950" width="800" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/a6c9dc1d-18e2-424a-9df4-5b4b2e7f47ad">
+
+# 7 - Modelo de previsão de Machine Learning:
+
+Depois de todo o processo já feito, é o momento de botarmos o modelo em prática para obter respostas. A nossa pergunta será: "Se eu investir x em marketing, o quanto de vendas eu terei?"
+OBS: A moeda pode ser considerada dólar.
+
+<img align="center"  height="250" width="800" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/ac29f810-7f99-4454-a7ab-b6fcfb6d3a54">
+
+### Outros exemplos:
+
+<img align="center"  height="950" width="800" src="https://github.com/MichelGBR/Previsao_de_vendas_Machine_Learning/assets/169415705/2be681a8-935e-48d3-a12d-eba09bc9cb7b">
+
+
+
+
+
 
 
