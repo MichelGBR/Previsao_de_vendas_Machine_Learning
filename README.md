@@ -16,18 +16,17 @@ Um dono de mercado deseja estimar o potencial de vendas em função do investime
 
 ### ​🧩​ Objetivo:
 
-Desenvolver um modelo preditivo: Construir um modelo de Machine Learning para estimar as vendas em diferentes cenários de investimento em marketing.
-Quantificar o retorno do investimento: Analisar o retorno sobre investimento (ROI) das estratégias de marketing para auxiliar na tomada de decisões estratégicas.
-Otimizar a alocação de recursos: Identificar os níveis de investimento em marketing que maximizam o lucro ou outros indicadores de negócio relevantes.
-Metodologia:
+• Desenvolver um modelo preditivo: Construir um modelo de Machine Learning para estimar as vendas em diferentes cenários de investimento em marketing.
+
+• Quantificar o retorno do investimento: Analisar o retorno sobre investimento (ROI) das estratégias de marketing para auxiliar na tomada de decisões estratégicas.
+
+• Otimizar a alocação de recursos: Identificar os níveis de investimento em marketing que maximizam o lucro ou outros indicadores de negócio relevantes.
+
+### Metodologia:
 
 • Análise Exploratória de Dados: Explorar e compreender o conjunto de dados, identificando padrões, tendências e relações entre as variáveis.
 
 • Pré-processamento de Dados: Limpar e preparar os dados para a modelagem, tratando dados ausentes, inconsistentes e outliers.
-
-• Desenvolvimento do Modelo: Treinar e avaliar diferentes modelos de Machine Learning para estimar as vendas.
-
-• Seleção do Melhor Modelo: Selecionar o modelo com o melhor desempenho em termos de precisão e generalização.
 
 • Interpretação e Validação do Modelo: Analisar os resultados do modelo, interpretando os coeficientes e validando a sua precisão em um conjunto de dados de teste.
 
@@ -35,9 +34,11 @@ Metodologia:
 
 ### ​​✅​ Resultados Esperados:
 
-Modelo preditivo preciso: Um modelo de Machine Learning capaz de estimar as vendas com alta confiabilidade.
-Insights acionáveis: Informações valiosas sobre o impacto das estratégias de marketing nas vendas.
-Recomendações otimizadas: Recomendações sobre os níveis de investimento em marketing que maximizam o lucro ou outros indicadores de negócio relevantes.
+•Modelo preditivo preciso: Um modelo de Machine Learning capaz de estimar as vendas com alta confiabilidade.
+
+•Insights acionáveis: Informações valiosas sobre o impacto das estratégias de marketing nas vendas.
+
+•Recomendações otimizadas: Recomendações sobre os níveis de investimento em marketing que maximizam o lucro ou outros indicadores de negócio relevantes.
 
 
 
